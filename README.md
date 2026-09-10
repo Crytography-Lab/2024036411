@@ -14,11 +14,6 @@
 | 6 | Rail Fence Cipher | `6_rail_fence_cipher.py` |
 | 7 | Double Columnar Transposition Cipher | `7_double_columnar_cipher.py` |
 
-## PDF Submission
-
-The compiled PDF with all 7 programs (source code + VS Code terminal output) is included:
-`Cryptographic_Algorithms_Lab.pdf`
-
 ## Language & IDE
 - **Language**: Python 3.x
 - **IDE**: Visual Studio Code
